@@ -24,7 +24,7 @@
     <td><img src="General Chemistry.JPG" width="200";height="200"></td>
 </tr>
 <tr>
-     <td>Price:$20, <br> Owner: Aadithya Palaniappan <br> Contact info: (636)-428-0097</td>
+     <td>Price:$40, <br> Owner: Aadithya Palaniappan <br> Contact info: (636)-428-0097</td>
 </tr>
 </table>
 </body>
