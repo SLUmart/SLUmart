@@ -25,5 +25,8 @@
 <p><a href="General Chemistry.html">Chemistry</a></p>
 <p><a href="Health Care.html">Health Care</p>
 <p><a href="Math.html">Math</a></p>
+<p><a href="Political Science.html"></a></p>
+<p><a href="Social Work.html">Social Work</a></p>
+<p><a href="Theology.html">Theology</a></p>
 </body>
 </html>

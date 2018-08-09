@@ -13,20 +13,20 @@
        <th> <a href="Miscellaenous.html"> MISCELLANEOUS  </a>      </th> 
     </tr> 
 </table>
-<h1>TEXTBOOKS</h1>
+<h1>Statistics</h1> 
 <br>
 <br>
 <br>
-<h3>What subject are your looking for!</h3>
+<h3>These are currently the books that we have for Statistics</h3><br>
 <br>
 <br>
-<br>
-<p><a href="Biology.html">Biology</a></p>
-<p><a href="General Chemistry.html">Chemistry</a></p>
-<p><a href="Health Care.html">Health Care</p>
-<p><a href="Math.html">Math</a></p>
-<p><a href="Political Science.html"></a></p>
-<p><a href="Social Work.html">Social Work</a></p>
-<p><a href="Theology.html">Theology</a></p>
+<table>
+   <tr>
+     <td><img src="Statistics.JPG" width="200";height="200"></td> 
+   </tr>
+   <tr>
+     <td><p>Stats 1100 <br> Price:$15 <br> Owner:Sarah Valek <br> Contact Info: sarah.valek@slu.edu</p></td>
+   </tr>
+</table>
 </body>
 </html>

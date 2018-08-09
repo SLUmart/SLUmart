@@ -1,0 +1,34 @@
+<html>
+<head>
+  <link rel="stylesheet"
+   type="text/css"
+   href="css.css">
+</head>
+<body>
+<table>
+    <tr>
+       <th> <a href="index.html"> HOME </a></th>
+       <th> <a href="Textbooks.html"> TEXTBOOKS </a>            </th>
+       <th> <a href="Household Items.html"> HOUSEHOLD ITEMS </a>      </th> 
+       <th> <a href="Miscellaenous.html"> MISCELLANEOUS  </a>      </th> 
+    </tr> 
+</table>
+<h1>Statistics</h1> 
+<br>
+<br>
+<br>
+<h3>These are currently the books that we have for Social Work</h3><br>
+<br>
+<br>
+<table>
+   <tr>
+     <td><img src="Social Work.JPG" width="200";height="200"></td> 
+     <td> img src="Social Welfare.JPG" width="200";height="200"></td>
+   </tr>
+   <tr>
+     <td><p>SWRK 3400 <br> Price:$20 <br> Owner:Sarah Valek <br> Contact Info: sarah.valek@slu.edu</p></td>
+     <td><p>SWRK 3100 <br> Price:$15<br> Owner:Sarah Valek <br> Contact Info: sarah.valek@slu.edu</p></td>
+   </tr>
+</table>
+</body>
+</html>
