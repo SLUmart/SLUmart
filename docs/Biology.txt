@@ -21,10 +21,12 @@
    <tr>
        <td><img src="Biochemistry.JPG" width="200";height:="200"></td>  
        <td><img src="Evolutionary Biology.JPG" width="200";height:="200"></td>
+       <td><img src="Microbiology.JPG" width="200"; height:="200"></td>
    </tr>
    <tr>
        <td><p>Bio 3020 <br>Price:$15<br>Owner:Aadi Palaniappan<br>Contact info: (636)-428-0097</td>
        <td><p>Bio 3010 <br>Price:$20<br>Owner:Aadi Palaniappan<br>Contact info: (636)-428-0097</td>
+       <td><p>Microbiology <br>Price:$50<br>Owner:Robin Bender<br>Contact info: (847)-702-6027</td>
    </tr>
 </table>
 </body>
